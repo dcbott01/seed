@@ -48,6 +48,6 @@ Register: [Mine SEED](t.me/seed_coin_bot/app?startapp=5504248798)
 
 ## Contributing
 
-Jika kamu menemukan bug atau ingin menambahkan fitur baru, silakan buat issue atau pull request di repositori ini.
+Jika kamu menemukan bug atau ingin menambahkan fitur baru, silakan buat issue di repositori ini.
 
 
