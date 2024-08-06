@@ -38,8 +38,9 @@ Register: [Mine SEED](t.me/seed_coin_bot/app?startapp=5504248798)
 - **Auto Upgrade Storage**
 - **Auto Upgrade Mining**
 - **Auto Upgrade Holy**
+- **Auto Claim**
 - **Auto Catch Worm**
-- **Auto Check-in Daily**.
+- **Auto Check-in Daily**
 - **Multi Account** 
 
 ## Notes
